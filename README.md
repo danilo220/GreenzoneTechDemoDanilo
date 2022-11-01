@@ -3,6 +3,8 @@
 ### Intro
 This Tech demo is designed to get a rough understanding of where your understanding is at, in regards to a basic VueJS 2 project.
 
+The project is written using Vuejs 2 and Typescript, with class style syntax.
+
 It is not a Pass / Fail based task, if you can explain the aspects of the project that you do not understand, how you would go about figuring it out, that in itself is useful.
 
 The project is already setup and will not require scaffolding.
