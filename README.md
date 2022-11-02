@@ -28,30 +28,16 @@ The todo app should implement the following features when adding a todo item
 4 - A clean system for moving the todo's between states <br>
 
 ### Things to Consider
-<<<<<<< HEAD
-
-=======
->>>>>>> cf3f7a91b51b3cb88a3f4304eebc47d26401d42d
 **Vuetify** components should be used where applicable. <br>
 **State Storage** should be used to handle adding / completing data <br>
 Following the fundamentals of VueJS' **component based architecture** <br>
 Type checking with Typescript e.g. Ensuring all properties on an object can only be of certain types or only certain properties can exist on an object <br>
 
 ### Bonus
-<<<<<<< HEAD
-
 **Image Upload** - when adding a todo, include an image to be displayed on the card. <br>
 **Include a second option for adding a Todo** - Fetching data from 3rd party Api - https://jsonplaceholder.typicode.com/todos/5 (Use this website to get a todo(_last number can change_), then add it to your list) <br>
-=======
-**Image Upload** - when adding a todo, include an image to be displayed on the card. <br>
-**Include a second option for adding a Todo** - Fetching data from 3rd party Api - https://jsonplaceholder.typicode.com/todos/5 (Use this website to get a todo(_last number can change_), then add it to your list) <br> 
->>>>>>> cf3f7a91b51b3cb88a3f4304eebc47d26401d42d
 
 Throughout all of this, you should adhere to a clean uncluttered UI design. Hiding parts of the system where applicable behind popovers / menus.
 
 ### Summary
-<<<<<<< HEAD
-
-=======
->>>>>>> cf3f7a91b51b3cb88a3f4304eebc47d26401d42d
 Now that you have read the brief, I would like you to fork this repo and when you have completed the TechDemo I would like you to do a pull request into this repo.
