@@ -40,4 +40,4 @@ Type checking with Typescript e.g. Ensuring all properties on an object can only
 Throughout all of this, you should adhere to a clean uncluttered UI design. Hiding parts of the system where applicable behind popovers / menus.
 
 ### Summary
-Now that you have read the brief, I would like you to fork this repo and when you have completed the TechDemo I would like you to do a pull request into this repo.
+Now that you have read the brief, I would like you to clone this repo and when you have completed the TechDemo I would like you to share your repo with us.
