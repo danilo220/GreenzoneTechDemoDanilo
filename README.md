@@ -43,4 +43,4 @@ Throughout all of this, you should adhere to a clean uncluttered UI design. Hidi
 ### Summary
 Now that you have read the brief, we  would like you to clone this repo, and create your own. When you have completed the TechDemo we would like you to share your repo with us.
 
-We would also like you to perform individual commits that relate roughly to the feature you are working on, with comments as well. 
+We would also like you to perform individual commits that relate roughly to the feature you are working on, as well as commenting your code. 
