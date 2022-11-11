@@ -41,4 +41,6 @@ Type checking with Typescript e.g. Ensuring all properties on an object can only
 Throughout all of this, you should adhere to a clean uncluttered UI design. Hiding parts of the system where applicable behind popovers / menus.
 
 ### Summary
-Now that you have read the brief, I would like you to clone this repo and when you have completed the TechDemo I would like you to share your repo with us.
+Now that you have read the brief, we  would like you to clone this repo, and create your own. When you have completed the TechDemo we would like you to share your repo with us.
+
+We would also like you to perform individual commits that relate roughly to the feature you are working on, with comments as well. 
