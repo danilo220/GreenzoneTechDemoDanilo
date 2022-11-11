@@ -1,7 +1,7 @@
 # GreenzoneTechDemo
 
 ### Intro
-This Tech demo is designed to get a rough understanding of where your understanding is at, in regards to a basic VueJS 2 project.
+This Tech demo is designed to get a rough outline of where your understanding is at, in regards to a basic VueJS 2 project.
 
 The project is written using Vuejs 2 and Typescript, with class style syntax.
 
