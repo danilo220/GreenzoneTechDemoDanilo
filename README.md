@@ -28,8 +28,9 @@ The todo app should implement the following features when adding a todo item
 3 - A clear UI separation for todo's that are **Active** and **Completed** _(with no items from either state being visible near the other)_ <br>
 4 - A clean system for moving the todo's between states <br>
 
-**Image Upload** - when adding a todo, include an image to be displayed on the card. <br>
 **Include a second option for adding a Todo** - Fetching data from 3rd party Api - https://jsonplaceholder.typicode.com/todos/5 (Use this website to get a todo(_last number can change_), then add it to your list) <br>
+**Image Upload** - when adding a todo, include an image to be displayed on the card. <br>
+
 
 ### Things to Consider
 **Vuetify** components should be used where applicable. <br>
