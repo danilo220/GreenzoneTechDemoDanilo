@@ -9,6 +9,7 @@
 			type="number"
 			min="1"
 			required
+			@keydown.enter.prevent
 		></v-text-field>
 		<v-btn @click="fetchToDoItem"> Fetch todo </v-btn>
 	</v-form>
